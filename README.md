@@ -1,10 +1,10 @@
 ### Hey!, My name is Damián Peña, I'm currently studying Software Engineering at University of San Carlos of Guatemala. 🐱‍🚀
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=damianpeaf&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damianpeaf&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
   
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=damianpeaf&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=damianpeaf&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
 
   <!-- Tech Stack -->
   ## Tech Stack
