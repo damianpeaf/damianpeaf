@@ -67,7 +67,7 @@
 <a href="https://www.instagram.com/pipa3433/" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://www.linkedin.com/in/damian-ignacio-pe%C3%B1a-afre/" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.youtube.com/channel/UChdUgu2VkgW7oxFzm-pBYBQ" ><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/></a>
-<a href="https://damianpeaf.github.io/" ><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"></a>
+<a href="https://www.damianpeaf.me/" ><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"></a>
 </center>
 
 
