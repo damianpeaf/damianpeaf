@@ -1,4 +1,4 @@
-### Hey!, My name is Damián Peña, I'm currently studying Software Engineering at University of San Carlos of Guatemala. 🐱‍🚀
+### Hey!, My name is Damián Peña, I'm currently studying Science and Systems Engineering at University of San Carlos of Guatemala. 🐱‍🚀
 
   
 <div align="center">
